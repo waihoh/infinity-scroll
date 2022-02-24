@@ -5,4 +5,4 @@ Udemy JavaScript Web Projects: 20 Projects to Build Your Portfolio. See https://
 
 Section 4 - Infinite Scroll.
 
-Example of the webpage is at 
+Example of the webpage is at https://waihoh.github.io/infinity-scroll/
